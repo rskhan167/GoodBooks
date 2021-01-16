@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.idea/.idea.GoodBooks/.idea
+/.vs
+/.vscode
+/GoodBooks.Data/bin/Debug/netcoreapp3.1
+/GoodBooks.Data/obj
+/GoodBooks.Services/bin/Debug/netcoreapp3.1
+/GoodBooks.Services/obj
+/GoodBooks.Test/bin/Debug/netcoreapp3.1
+/GoodBooks.Test/obj
+/GoodBooks.Web/bin/Debug/net5.0
+/GoodBooks.Web/obj
+/obj
